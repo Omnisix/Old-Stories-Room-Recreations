@@ -1,0 +1,153 @@
+------------
+class-d mode
+------------
+
+room1_lcz
+room1archive
+room1end1
+room1lcz-hcz
+room1lcz-hcz_up
+room1sewer
+room2_1_lcz
+room2_2_lcz
+room2_3_lcz (finished)
+room2_4_lcz
+room2_5_lcz
+room2_6_lcz
+room2_7_lcz
+room2alarm1 (finished)
+room2c_1_lcz (finished)
+room2c_2_lcz
+room2c_3_lcz
+room2c_4_lcz (finished)
+room2c_labor
+room2cave1
+room2cave2 (finished)
+room2cave3 (in progress)
+room2chamber
+room2classd
+room2corridor1
+room2corridor2 (finished)
+room2corridor3
+room2doors
+room2energy_lcz
+room2foodoutlet
+room2hallway1_lcz
+room2hallway2_lcz (finished)
+room2hallway3_lcz (finished)
+room2officecubicles (finished)
+room2offices_lcz
+room2scps
+room2server_lcz
+room2storage
+room2storage2 (finished)
+room2tesla
+room2testing1
+room3_1_lcz (finished)
+room3_2_lcz (finished)
+room3_3_lcz (finished)
+room3_4_lcz
+room3_5_lcz
+room3bigcave_lcz
+room3door
+room3storage
+room4_1_lcz
+room4_2_lcz (finished)
+room4_3_lcz (finished)
+room4way_lcz
+start (finished)
+
+--------------
+scientist mode
+--------------
+
+room1_hcz
+room1hcz-ez
+room1hcz-ez_up
+room2_1_hcz (finished)
+room2_2_hcz
+room2_3_hcz (finished)
+room2_4_hcz (finished)
+room2_5_hcz
+room2_6_hcz
+room2c_1_hcz
+room2c_2_hcz
+room2c_3_hcz
+room2cdtunnel_1_hcz (finished)
+room2cpipe_hcz (finished)
+room2door_hcz
+room2dtunnel_1_hcz (finished)
+room2elevator
+room2falling
+room2hallway1_hcz (finished)
+room2hallway2_hcz
+room2servers
+room2startdoctor
+room3_1_hcz (finished)
+room3_2_hcz
+room3_3_hcz (finished)
+room3_metalway
+room3cpanels1_hcz (in progress)
+room3cpanels2_hcz
+room3dtunnel_1_hcz
+room3pipe_hcz (finished)
+room3servers_hcz
+room4_1_hcz (finished)
+room4_2_hcz
+room4_metalway
+room4dtunnel_1_hcz
+room4pipe_hcz
+
+---------------
+researcher mode
+---------------
+
+room1_ez
+room2_1_ez
+room2_2_ez
+room2_3_ez
+room2_4_ez
+room2adm1
+room2c_1_ez
+room2c_2_ez
+room2c_3_ez
+room2c_ez
+room2cafeteria
+room2electrical
+room2elevator_ez
+room2lobby_ez
+room2offices
+room2offices2 (finished)
+room2offices3
+room2security
+room3_1_ez
+room3_2_ez
+room3_3_ez
+room3_ez
+room3offices1
+room3offices2 (in progress)
+room3offices3
+room3stairoffices (finished)
+room4_1_ez
+room4_2_ez
+room4_ez
+room4offices_ez
+
+-----------
+checkpoints
+-----------
+
+room2checkpoint_ez
+room2checkpoint1_hcz
+room2checkpoint1_lcz
+room2checkpoint1_mix
+room2checkpoint2_hcz
+room2checkpoint2_lcz
+room2checkpoint2_mix
+
+--------
+chambers
+--------
+
+room914/room914_revamped_lower (in progress)
+
