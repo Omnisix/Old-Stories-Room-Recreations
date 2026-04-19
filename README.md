@@ -1,10 +1,14 @@
 # Old Stories Room Recreations
+
 Official repository for room recreations from SCP - Backstories (Old Stories) Mod.
 
-Credits:
+## Credits
 
-ANENPA Team - original authors of Backstories Mod.
+**- ANENPA Team** | *Original creators of Old Stories/Backstories Mod.*
 
-Omnisix(me) - recreating the rooms.
+**- Omnisix (me lol)** | *Recreating the rooms.*
 
-yomama - contributing to the project.
+**- yomama** | *Contributing to the project.*
+
+
+
