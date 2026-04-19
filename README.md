@@ -8,7 +8,12 @@ Official repository for room recreations from SCP - Backstories (Old Stories) Mo
 
 **- Omnisix (me lol)** | *Recreating the rooms.*
 
-**- yomama** | *Contributing to the project.*
+**- yomama, T43C1T, robinrekt** | *Contributing to the project.*
+
+## Requirements
+
+-	[CBRE-EX](https://github.com/AnalogFeelings/cbre-ex/releases) v.2.2.1
 
 
 
+Discord server for my SCP-CB related projects - https://discord.gg/CMaBjJpRGP
