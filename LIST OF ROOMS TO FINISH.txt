@@ -2,7 +2,7 @@
 class-d mode
 ------------
 
-room1_lcz
+room1_lcz (finished)
 room1archive
 room1end1
 room1lcz-hcz
