@@ -2,10 +2,10 @@
 class-d mode
 ------------
 
-17/54 finished
+18/54 finished
 
 room1_lcz (finished)
-room1archive
+room1archive (finished)
 room1end1
 room1lcz-hcz
 room1lcz-hcz_up
