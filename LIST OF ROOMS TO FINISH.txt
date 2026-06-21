@@ -66,7 +66,7 @@ scientist mode
 room1_hcz
 room1hcz-ez
 room1hcz-ez_up
-room1lcz-hcz_up
+room1lcz-hcz_up (finished)
 room2_1_hcz (finished)
 room2_2_hcz
 room2_3_hcz (finished)
@@ -108,7 +108,7 @@ researcher mode
 3/31 finished
 
 room1_ez
-room1lcz-hcz
+room1lcz-hcz (finished)
 room2_1_ez
 room2_2_ez
 room2_3_ez
