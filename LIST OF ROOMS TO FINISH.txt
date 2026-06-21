@@ -2,12 +2,11 @@
 class-d mode
 ------------
 
-19/54 finished
+19/53 finished
 
 room1_lcz (finished)
 room1archive (finished)
 room1end1 (finished)
-room1lcz-hcz
 room1lcz-hcz_up
 room1sewer
 room2_1_lcz
@@ -106,9 +105,10 @@ room4pipe_hcz
 researcher mode
 ---------------
 
-2/30 finished
+3/31 finished
 
 room1_ez
+room1lcz-hcz
 room2_1_ez
 room2_2_ez
 room2_3_ez
