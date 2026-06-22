@@ -6,7 +6,7 @@
 class-d mode
 ------------
 
-21/52 finished
+22/52 finished
 
 room1_lcz (finished)
 room1archive (finished)
@@ -14,7 +14,7 @@ room1end1 (finished)
 room2_1_lcz (finished)
 room2_2_lcz (finished)
 room2_3_lcz (finished)
-room2_4_lcz
+room2_4_lcz (finished)
 room2_5_lcz
 room2_6_lcz
 room2_7_lcz
@@ -58,7 +58,7 @@ room4_1_lcz
 room4_2_lcz (finished)
 room4_3_lcz (finished)
 room4way_lcz
-start (finished)
+start_d_class (finished)
 
 --------------
 scientist mode
