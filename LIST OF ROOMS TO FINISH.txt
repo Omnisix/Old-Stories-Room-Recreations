@@ -1,14 +1,17 @@
+============
+[STORY MODE]
+============
+
 ------------
 class-d mode
 ------------
 
-19/53 finished
+20/52 finished
 
 room1_lcz (finished)
 room1archive (finished)
 room1end1 (finished)
-room1sewer
-room2_1_lcz
+room2_1_lcz (finished)
 room2_2_lcz
 room2_3_lcz (finished)
 room2_4_lcz
@@ -159,3 +162,10 @@ chambers
 
 room914/room914_revamped_lower (in progress)
 
+===========
+[FAST MODE]
+===========
+
+0/1 finished
+
+room1sewer
