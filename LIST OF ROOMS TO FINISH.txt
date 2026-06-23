@@ -6,7 +6,7 @@
 class-d mode
 ------------
 
-25/52 finished
+26/52 finished
 
 room1_lcz (finished)
 room1archive (finished)
@@ -20,7 +20,7 @@ room2_6_lcz (finished)
 room2_7_lcz (finished)
 room2alarm1 (finished)
 room2c_1_lcz (finished)
-room2c_2_lcz
+room2c_2_lcz (finished)
 room2c_3_lcz
 room2c_4_lcz (finished)
 room2c_labor
