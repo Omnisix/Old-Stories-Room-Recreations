@@ -34,10 +34,10 @@ viewsettings
     "bShowGrid" "1"
     "bShow3DGrid" "0"
     "nGridSpacing" "1"
-    "bIgnoreGrouping" "0"
+    "bIgnoreGrouping" "1"
     "bHideFaceMask" "0"
-    "bHideToolTextures" "1"
-    "bHideEntitySprites" "1"
+    "bHideToolTextures" "0"
+    "bHideEntitySprites" "0"
     "bHideMapOrigin" "0"
     "bTextureLock" "1"
     "bTextureScalingLock" "0"
@@ -19614,25 +19614,6 @@ entity
 }
 entity
 {
-    "id" "213"
-    "classname" "soundemitter"
-    "position" "83.99988 512.00008 -159.99979"
-    "range" "3"
-    "sound" "4"
-    "spawnflags" "0"
-    "origin" "83.99988000 -159.99979000 512.00008000"
-    editor
-    {
-        "color" "245 245 0"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "groupid" "214"
-        "parentid" "214"
-    }
-}
-entity
-{
     "id" "247"
     "classname" "light"
     "color" "180 220 220"
@@ -19676,8 +19657,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-5.24895300 -967.63570000 203.66300000]"
-        "look" "[0.58658460 -872.52760000 191.97810000]"
+        "position" "[-2.38655700 -992.67210000 198.79030000]"
+        "look" "[-5.69276300 -898.81250000 178.90100000]"
     }
 }
 cordon
