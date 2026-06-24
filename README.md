@@ -8,7 +8,7 @@ Official repository for room recreations from SCP - Backstories (Old Stories) Mo
 
 **- Omnisix (me lol)** | *Recreating the rooms.*
 
-**- Keter-Class(Mythical), robinrekt, T43C1T, yomama** | *Contributing to the project.*
+**- Keter-Class(Mythical), robinrekt, T43C1T, urxin, yomama** | *Contributing to the project.*
 
 ## Requirements
 
