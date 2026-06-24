@@ -29,7 +29,7 @@ room2cave2 (finished)
 room2cave3 (in progress)
 room2chamber
 room2classd
-room2corridor1
+room2corridor1 (finished)
 room2corridor2 (finished)
 room2corridor3
 room2doors
