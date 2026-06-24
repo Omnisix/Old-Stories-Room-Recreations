@@ -6,7 +6,7 @@
 class-d mode
 ------------
 
-28/52 finished
+29/52 finished
 
 room1_lcz (finished)
 room1archive (finished)
@@ -31,7 +31,7 @@ room2chamber
 room2classd
 room2corridor1 (finished)
 room2corridor2 (finished)
-room2corridor3
+room2corridor3 (finished)
 room2doors
 room2energy_lcz
 room2foodoutlet
