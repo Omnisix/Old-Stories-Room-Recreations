@@ -30353,10 +30353,11 @@ world
         "id" "158"
         editor
         {
-            "color" "0 0 0"
+            "color" "135 204 0"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "parentid" "1"
+            "groupid" "264"
+            "parentid" "264"
         }
     }
     group
@@ -30364,10 +30365,11 @@ world
         "id" "160"
         editor
         {
-            "color" "0 0 0"
+            "color" "145 214 1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "parentid" "1"
+            "groupid" "264"
+            "parentid" "264"
         }
     }
     group
@@ -30375,10 +30377,11 @@ world
         "id" "166"
         editor
         {
-            "color" "0 0 0"
+            "color" "143 212 0"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "parentid" "1"
+            "groupid" "264"
+            "parentid" "264"
         }
     }
     group
@@ -30386,10 +30389,11 @@ world
         "id" "172"
         editor
         {
-            "color" "0 0 0"
+            "color" "152 221 8"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "parentid" "1"
+            "groupid" "264"
+            "parentid" "264"
         }
     }
     group
@@ -30397,10 +30401,11 @@ world
         "id" "176"
         editor
         {
-            "color" "0 0 0"
+            "color" "134 203 0"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "parentid" "1"
+            "groupid" "264"
+            "parentid" "264"
         }
     }
     group
@@ -30408,10 +30413,11 @@ world
         "id" "180"
         editor
         {
-            "color" "0 0 0"
+            "color" "151 220 7"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "parentid" "1"
+            "groupid" "264"
+            "parentid" "264"
         }
     }
     group
@@ -30516,14 +30522,25 @@ world
             "parentid" "1"
         }
     }
+    group
+    {
+        "id" "264"
+        editor
+        {
+            "color" "144 213 0"
+            "visgroupshown" "1"
+            "visgroupautoshown" "1"
+            "parentid" "1"
+        }
+    }
 }
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-13.57955000 352.42740000 274.56530000]"
-        "look" "[-8.11611200 370.84030000 280.14330000]"
+        "position" "[747.22620000 -735.39030000 260.10280000]"
+        "look" "[748.14170000 -754.97230000 256.13980000]"
     }
 }
 cordon
