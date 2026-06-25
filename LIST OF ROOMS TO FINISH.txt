@@ -211,4 +211,4 @@ room2checkpoint2_mix
 
 0/1 finished
 
-room1sewer
+room1sewer (*)
