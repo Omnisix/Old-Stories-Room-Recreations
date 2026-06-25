@@ -11,7 +11,7 @@
 class-d mode
 ------------
 
-32/52 finished
+32/53 finished
 
 ; ROOM1
 ; -----
@@ -38,6 +38,7 @@ room2corridor1 (+)
 room2corridor2 (+)
 room2corridor3 (+)
 room2doors
+room2elevator
 room2energy_lcz
 room2foodoutlet
 room2hallway1_lcz
@@ -86,21 +87,21 @@ scientist mode
 
 12/37 finished
 
+; ROOM1
+; -----
 room1_hcz
 room1hcz-ez
 room1hcz-ez_up
 room1lcz-hcz_up (+)
+
+; ROOM2
+; -----
 room2_1_hcz (+)
 room2_2_hcz
 room2_3_hcz (+)
 room2_4_hcz (+)
 room2_5_hcz
 room2_6_hcz
-room2c_1_hcz
-room2c_2_hcz
-room2c_3_hcz
-room2cdtunnel_1_hcz (+)
-room2cpipe_hcz (+)
 room2door_hcz
 room2dtunnel_1_hcz (+)
 room2elevator
@@ -109,6 +110,17 @@ room2hallway1_hcz (+)
 room2hallway2_hcz
 room2servers
 room2startdoctor
+
+; ROOM2C
+; ------
+room2c_1_hcz
+room2c_2_hcz
+room2c_3_hcz
+room2cdtunnel_1_hcz (+)
+room2cpipe_hcz (+)
+
+; ROOM3
+; -----
 room3_1_hcz (+)
 room3_2_hcz
 room3_3_hcz (+)
@@ -118,6 +130,9 @@ room3cpanels2_hcz
 room3dtunnel_1_hcz
 room3pipe_hcz (+)
 room3servers_hcz
+
+; ROOM4
+; -----
 room4_1_hcz (+)
 room4_2_hcz
 room4_metalway
@@ -130,17 +145,18 @@ researcher mode
 
 3/31 finished
 
+; ROOM1
+; -----
 room1_ez
 room1lcz-hcz (+)
+
+; ROOM2
+; -----
 room2_1_ez
 room2_2_ez
 room2_3_ez
 room2_4_ez
 room2adm1
-room2c_1_ez
-room2c_2_ez
-room2c_3_ez
-room2c_ez
 room2cafeteria
 room2electrical
 room2elevator_ez
@@ -149,6 +165,16 @@ room2offices
 room2offices2 (+)
 room2offices3
 room2security
+
+; ROOM2C
+; ------
+room2c_1_ez
+room2c_2_ez
+room2c_3_ez
+room2c_ez
+
+; ROOM3
+; -----
 room3_1_ez
 room3_2_ez
 room3_3_ez
@@ -157,6 +183,9 @@ room3offices1
 room3offices2 (*)
 room3offices3
 room3stairoffices (+)
+
+; ROOM4
+; -----
 room4_1_ez
 room4_2_ez
 room4_ez
