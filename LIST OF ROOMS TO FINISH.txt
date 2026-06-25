@@ -30,7 +30,7 @@ room2_6_lcz (+)
 room2_7_lcz (+)
 room2alarm1 (+)
 room2cave1 (+)
-room2cave2 (+)
+room2cave2 (!)
 room2cave3 (*)
 room2chamber (+)
 room2classd
@@ -41,10 +41,10 @@ room2doors
 room2elevator
 room2energy_lcz
 room2foodoutlet
-room2hallway1_lcz
-room2hallway2_lcz (+)
-room2hallway3_lcz (+)
-room2officecubicles (+)
+room2hallway1_lcz (*)
+room2hallway2_lcz (!)
+room2hallway3_lcz (!)
+room2officecubicles (!)
 room2offices_lcz
 room2scps
 room2server_lcz
