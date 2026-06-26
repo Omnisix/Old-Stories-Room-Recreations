@@ -3,9 +3,9 @@
 [(!) = Needs to be edited, otherwise finished]
 [(?) = Unknown whether the room was used in the original game or not]
 
-============
+=====================================================================
 [STORY MODE]
-============
+=====================================================================
 
 ------------
 class-d mode
@@ -60,7 +60,7 @@ room2c_1_lcz (+)
 room2c_2_lcz (+)
 room2c_3_lcz (+)
 room2c_4_lcz (+)
-room2c_labor (?)
+room2c_labor (+ ?)
 
 ; ROOM3
 ; -----
