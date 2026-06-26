@@ -66,7 +66,7 @@ room2c_labor (+ ?)
 ; -----
 room3_1_lcz (!)
 room3_2_lcz (+)
-room3_3_lcz (!)
+room3_3_lcz (+)
 room3_4_lcz (+)
 room3_5_lcz (+)
 room3bigcave_lcz
