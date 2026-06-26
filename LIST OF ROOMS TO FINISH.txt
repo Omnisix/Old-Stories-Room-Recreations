@@ -11,7 +11,7 @@
 class-d mode
 ------------
 
-32/53 finished
+33/53 finished
 
 ; ROOM1
 ; -----
@@ -38,7 +38,7 @@ room2corridor1 (+)
 room2corridor2 (+)
 room2corridor3 (+)
 room2doors
-room2elevator
+room2elevator (+)
 room2energy_lcz
 room2foodoutlet
 room2hallway1_lcz (*)
