@@ -209,6 +209,6 @@ room2checkpoint2_mix
 [FAST MODE]
 ===========
 
-0/1 finished
+1/1 finished
 
-room1sewer (*)
+room1sewer (+)
