@@ -8,7 +8,7 @@
 =====================================================================
 
 ------------
-class-d mode
+CLASS D MODE
 ------------
 
 33/53 finished
@@ -82,7 +82,7 @@ room4way_lcz
 room914 (*)
 
 --------------
-scientist mode
+SCIENTIST MODE
 --------------
 
 12/37 finished
@@ -140,7 +140,7 @@ room4dtunnel_1_hcz
 room4pipe_hcz
 
 ---------------
-researcher mode
+RESEARCHER MODE
 ---------------
 
 3/31 finished
