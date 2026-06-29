@@ -76,7 +76,7 @@ room3storage
 ; ROOM4
 ; -----
 room4_1_lcz
-room4_2_lcz (+)
+room4_2_lcz (!)
 room4_3_lcz (+)
 room4way_lcz
 room914 (*)
