@@ -48,7 +48,7 @@ room2officecubicles (!)
 room2offices_lcz
 room2scps
 room2server_lcz
-room2storage
+room2storage (+)
 room2storage2 (+)
 room2tesla
 room2testing1
