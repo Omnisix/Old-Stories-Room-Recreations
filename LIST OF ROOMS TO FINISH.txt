@@ -42,7 +42,7 @@ room2elevator (+)
 room2energy_lcz (+)
 room2foodoutlet (+)
 room2hallway1_lcz (+)
-room2hallway2_lcz (!)
+room2hallway2_lcz (+)
 room2hallway3_lcz (+)
 room2officecubicles (!)
 room2offices_lcz
