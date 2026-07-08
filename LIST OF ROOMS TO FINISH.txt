@@ -11,7 +11,7 @@
 CLASS D MODE
 ------------
 
-39/53 finished
+40/53 finished
 
 ; ROOM1
 ; -----
@@ -33,7 +33,7 @@ room2cave1 (+)
 room2cave2 (!)
 room2cave3 (*)
 room2chamber (+)
-room2classd
+room2classd (+)
 room2corridor1 (+)
 room2corridor2 (+)
 room2corridor3 (+)
