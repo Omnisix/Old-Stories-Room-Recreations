@@ -195,11 +195,11 @@ room4offices_ez
 checkpoints
 -----------
 
-0/7 finished
+1/7 finished
 
 room2checkpoint_ez
 room2checkpoint1_hcz
-room2checkpoint1_lcz
+room2checkpoint1_lcz (+)
 room2checkpoint1_mix
 room2checkpoint2_hcz
 room2checkpoint2_lcz
