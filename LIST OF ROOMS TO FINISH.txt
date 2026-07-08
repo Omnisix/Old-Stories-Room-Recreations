@@ -11,7 +11,7 @@
 CLASS D MODE
 ------------
 
-40/53 finished
+41/53 finished
 
 ; ROOM1
 ; -----
@@ -47,7 +47,7 @@ room2hallway3_lcz (+)
 room2officecubicles (+)
 room2offices_lcz (+)
 room2scps
-room2server_lcz
+room2server_lcz (+)
 room2storage (+)
 room2storage2 (+)
 room2tesla
