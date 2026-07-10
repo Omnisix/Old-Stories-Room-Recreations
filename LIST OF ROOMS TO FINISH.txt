@@ -37,7 +37,7 @@ room2classd (+)
 room2corridor1 (+)
 room2corridor2 (+)
 room2corridor3 (+)
-room2doors
+room2doors (?)
 room2elevator (+)
 room2energy_lcz (+)
 room2foodoutlet (+)
@@ -46,7 +46,7 @@ room2hallway2_lcz (+)
 room2hallway3_lcz (+)
 room2officecubicles (+)
 room2offices_lcz (+)
-room2scps
+room2scps (?)
 room2server_lcz (+)
 room2storage (+)
 room2storage2 (+)
@@ -70,7 +70,7 @@ room3_3_lcz (+)
 room3_4_lcz (+)
 room3_5_lcz (+)
 room3bigcave_lcz (*)
-room3door
+room3door (?)
 room3storage
 
 ; ROOM4
@@ -78,7 +78,7 @@ room3storage
 room4_1_lcz (+)
 room4_2_lcz (+)
 room4_3_lcz (+)
-room4way_lcz (+)
+room4way_lcz (+ ?)
 room914 (*)
 
 --------------
