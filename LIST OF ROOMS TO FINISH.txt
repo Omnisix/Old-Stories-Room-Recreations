@@ -11,7 +11,7 @@
 CLASS D MODE
 ------------
 
-41/53 finished
+42/53 finished
 
 ; ROOM1
 ; -----
@@ -51,7 +51,7 @@ room2server_lcz (+)
 room2storage (+)
 room2storage2 (+)
 room2tesla
-room2testing1
+room2testing1 (+)
 start_d_class (+)
 
 ; ROOM2C
