@@ -11,7 +11,7 @@
 CLASS D MODE
 ------------
 
-42/53 finished
+43/53 finished
 
 ; ROOM1
 ; -----
@@ -78,7 +78,7 @@ room3storage
 room4_1_lcz (+)
 room4_2_lcz (+)
 room4_3_lcz (+)
-room4way_lcz
+room4way_lcz (+)
 room914 (*)
 
 --------------
