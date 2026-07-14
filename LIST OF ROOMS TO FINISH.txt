@@ -70,7 +70,7 @@ room3_3_lcz (+)
 room3_4_lcz (+)
 room3_5_lcz (+)
 room3bigcave_lcz (!) - telephone and rock props needed, otherwise finished
-room3door (?)
+room3door (+ ?)
 room3storage
 
 ; ROOM4
