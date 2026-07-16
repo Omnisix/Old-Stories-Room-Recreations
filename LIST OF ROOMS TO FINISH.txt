@@ -85,14 +85,13 @@ room914 (*)
 SCIENTIST MODE
 --------------
 
-12/37 finished
+13/37 finished
 
 ; ROOM1
 ; -----
-room1_hcz
+room1_hcz (+)
 room1hcz-ez
-room1hcz-ez_up
-room1lcz-hcz_up (+)
+room1lcz_hcz_up (+)
 
 ; ROOM2
 ; -----
@@ -205,10 +204,34 @@ room2checkpoint2_hcz
 room2checkpoint2_lcz
 room2checkpoint2_mix
 
-===========
-[FAST MODE]
-===========
+=====================
+[FAST MODE EXCLUSIVE]
+=====================
+
+-------------
+TESTING LEVEL
+-------------
 
 1/1 finished
 
+; ROOM1
+; -----
 room1sewer (+)
+
+-------------
+STORAGE LEVEL
+-------------
+
+; ROOM1
+; -----
+room1lcz_hcz_up (+)
+
+------------
+OFFICE LEVEL
+------------
+
+1/1 finished
+
+; ROOM1
+; -----
+room1hcz_ez_up (+)
