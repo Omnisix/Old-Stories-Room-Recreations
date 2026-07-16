@@ -90,7 +90,7 @@ SCIENTIST MODE
 ; ROOM1
 ; -----
 room1_hcz (+)
-room1hcz-ez
+room1hcz_ez (+)
 room1lcz_hcz_up (+)
 
 ; ROOM2
